@@ -1,0 +1,3 @@
+路徑都會在案子的下的batch檔案
+
+CTCI\PipingSymbol

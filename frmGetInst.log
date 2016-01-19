@@ -1,0 +1,12 @@
+Line 25: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 53: Class MSComctlLib.ListView of control ListInstView was not a loaded control class.
+Line 31: The property name _ExtentX in ProgressBar1 is invalid.
+Line 32: The property name _ExtentY in ProgressBar1 is invalid.
+Line 33: The property name _Version in ProgressBar1 is invalid.
+Line 59: The property name _ExtentX in ListInstView is invalid.
+Line 60: The property name _ExtentY in ListInstView is invalid.
+Line 61: The property name View in ListInstView is invalid.
+Line 62: The property name LabelWrap in ListInstView is invalid.
+Line 63: The property name HideSelection in ListInstView is invalid.
+Line 64: The property name _Version in ListInstView is invalid.
+Line 69: The property name NumItems in ListInstView is invalid.

@@ -1,0 +1,22 @@
+Step 1:
+
+Regsvr32 D:\Desktop\S3DgetTWZone_test\GetThermowellZone\Getthermowll.ocx
+Regsvr32 -u "C:\Documents and Settings\55670\Desktop\GetThermowellZone\MSCOMCTL.OCX"
+
+You can use the Microsoft Register Server (Regsvr32.exe) to register an .ocx file manually. The syntax for using Regsvr32.exe is as follows: 
+
+Regsvr32 [/u] [/s] <OCX File Name> 
+
+Note /u means Unregister the .ocx file. 
+/s means Silent Mode (display no messages).
+
+The following example registers the Microsoft MSCOMCTL ActiveX Control without displaying any messages: 
+
+Regsvr32 /s c:\windows\system32\mscomctl.ocx
+
+
+Step 2:
+set Progid:	Getthermowll.GetInst
+
+Step 3:
+put THERMO.mdb under c:\54477
